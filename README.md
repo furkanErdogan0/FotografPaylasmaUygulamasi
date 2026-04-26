@@ -31,7 +31,6 @@ Uygulama içi ekran görüntüleri :
 <img src="https://github.com/user-attachments/assets/729071b9-caf7-4eac-b72d-4aa0def3abe6" alt="Uygulama Ekran Görüntüsü 1" width="170">
 <img src="https://github.com/user-attachments/assets/302b565b-1e78-45d6-810b-8404de94a737" alt="Uygulama Ekran Görüntüsü 1" width="170">
 <img src="https://github.com/user-attachments/assets/63fab406-32b0-410c-b27c-c9d2df5ad550" alt="Uygulama Ekran Görüntüsü 1" width="170">
-<img src="https://github.com/user-attachments/assets/8cda8f1d-ab3d-470a-8e35-febd8e2d5e31" alt="Uygulama Ekran Görüntüsü 1" width="170">
 <img src="https://github.com/user-attachments/assets/a7e14e8f-de2b-4fbf-8b03-baa26f80cbe1" alt="Uygulama Ekran Görüntüsü 1" width="170">
 
 
